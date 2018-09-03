@@ -1,0 +1,7 @@
+C:\Users\bsolyom\source\repos\CodingAgain\CodingAgain\bin\Debug\CodingAgain.exe.config
+C:\Users\bsolyom\source\repos\CodingAgain\CodingAgain\bin\Debug\CodingAgain.exe
+C:\Users\bsolyom\source\repos\CodingAgain\CodingAgain\bin\Debug\CodingAgain.pdb
+C:\Users\bsolyom\source\repos\CodingAgain\CodingAgain\obj\Debug\CodingAgain.csprojAssemblyReference.cache
+C:\Users\bsolyom\source\repos\CodingAgain\CodingAgain\obj\Debug\CodingAgain.csproj.CoreCompileInputs.cache
+C:\Users\bsolyom\source\repos\CodingAgain\CodingAgain\obj\Debug\CodingAgain.exe
+C:\Users\bsolyom\source\repos\CodingAgain\CodingAgain\obj\Debug\CodingAgain.pdb
