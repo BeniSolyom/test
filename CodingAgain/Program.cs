@@ -16,6 +16,8 @@ namespace CodingAgain
                 Console.SetCursorPosition(0, 0);
                 Console.WriteLine(i+1);
 
+                Console.WriteLine("Változtatás!");
+
             }
 
             Console.ReadKey();
