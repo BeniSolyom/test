@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CodingAgain
+{
+    class TrialClass
+    {
+        int valami;
+        string akarmi;
+
+        public TrialClass (int valami, string akarmi)
+        {
+            this.valami = valami;
+            this.akarmi = akarmi;
+        }
+    }
+}
