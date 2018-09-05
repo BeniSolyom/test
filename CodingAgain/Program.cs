@@ -18,6 +18,13 @@ namespace CodingAgain
 
                 Console.WriteLine("Változtatás!");
 
+                
+
+            }
+
+            for (int i = 0; i < 20; i++)
+            {
+                Console.WriteLine("Valami proba");
             }
 
             Console.ReadKey();
