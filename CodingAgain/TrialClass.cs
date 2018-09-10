@@ -22,6 +22,8 @@ namespace CodingAgain
             Console.WriteLine("ProbaFunctionText");
 
             Console.WriteLine("MergingTestText");
+
+            Console.WriteLine("HABLABABLA");
         }
     }
 }
