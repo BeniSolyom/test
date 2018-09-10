@@ -24,6 +24,8 @@ namespace CodingAgain
             Console.WriteLine("MergingTestText");
 
             Console.WriteLine("HABLABABLA");
+
+            Console.WriteLine("MASTER_TEXT");
         }
     }
 }
