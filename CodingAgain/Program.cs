@@ -27,6 +27,11 @@ namespace CodingAgain
                 Console.WriteLine("Valami proba");
             }
 
+
+            Console.WriteLine("Stash proba szöveg van itt testelni");
+
+            Console.WriteLine("Only branch text test");
+
             Console.ReadKey();
         }
     }
