@@ -20,6 +20,8 @@ namespace CodingAgain
         public void ProbaStuff()
         {
             Console.WriteLine("ProbaFunctionText");
+
+            Console.WriteLine("MergingTestText");
         }
     }
 }
