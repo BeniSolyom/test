@@ -10,8 +10,8 @@ namespace CodingAgain
     {
         int valami;
         string akarmi;
-
         int cucc;
+
 
         public TrialClass (int valami, string akarmi)
         {
@@ -19,6 +19,7 @@ namespace CodingAgain
             this.akarmi = akarmi;
 
             cucc = 5;
+
         }
 
         public void ProbaStuff()
