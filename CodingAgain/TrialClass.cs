@@ -11,10 +11,14 @@ namespace CodingAgain
         int valami;
         string akarmi;
 
+        int cucc;
+
         public TrialClass (int valami, string akarmi)
         {
             this.valami = valami;
             this.akarmi = akarmi;
+
+            cucc = 5;
         }
 
         public void ProbaStuff()
