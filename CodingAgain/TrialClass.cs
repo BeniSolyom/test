@@ -16,5 +16,10 @@ namespace CodingAgain
             this.valami = valami;
             this.akarmi = akarmi;
         }
+
+        public void ProbaStuff()
+        {
+            Console.WriteLine("ProbaFunctionText");
+        }
     }
 }
